@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some page I'll get round to updating in more detail(hopefully).
+Some page I'll get round to updating in more detail (hopefully).
 
 ### More Information
 
