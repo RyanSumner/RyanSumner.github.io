@@ -24,7 +24,8 @@ The controls are there for that interactive part of the concept.
 
 
 ![_config.yml]({{ site.baseurl }}/images/Time Dilation Documentation/defaultbutton.png)
-- Added Default Button (sets the sliders to predetermined values, for when things get too crazy)
+
+- Added Default Button (sets the sliders to predetermined values, for when things get too crazy).
 
 
 
@@ -64,6 +65,7 @@ In the meantime I created 2 additional clocks for additional levels of the delay
 The Current Display:
 
 ![_config.yml]({{ site.baseurl }}/images/Time Dilation Documentation/secondDisplay.png)
+
 - Added Text to the sliders to easier identification
 
 
@@ -71,6 +73,7 @@ The Current Display:
 
 
 During my tinkering with the creation of the opaqueness delay, I found that different ordering of levels and levels of opaqueness used created different effects.
+
 There were 3 that I made:
 
 - The real time layer was most prominent with the other layers have low opaqueness in comparison.
@@ -107,8 +110,10 @@ Still being undecided about what effect to choose, I just created a slider that 
 
 
 However with everything linked up, have 3 caches with increasing size tended to take up a lot of memory very quickly, making the FPS drop quite noticeably still.
+
 So I made such that there was only 1 cache and everything else was selecting from that cache.
 The side effect however was that it made the switching layout quite a maze...
+
 ![_config.yml]({{ site.baseurl }}/images/Time Dilation Documentation/DelaySwitchFinal.png)
 
 
@@ -150,7 +155,9 @@ Something I also added to the sliders was a moving translucent dot, I wanted to 
 
 
 Next was the separate layers.
+
 I just made the coloured clocks translucent over their respected video layers.
+
 While I was at it I thought it would be a good idea to add an hour hand to the clocks for time comparison over a longer period of time (or when the rate of time slider is turned up for a bit).
 
 ![_config.yml]({{ site.baseurl }}/images/Time Dilation Documentation/4TranslucentColouredClocks.png)
