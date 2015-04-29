@@ -112,6 +112,7 @@ Still being undecided about what effect to choose, I just created a slider that 
 However with everything linked up, have 3 caches with increasing size tended to take up a lot of memory very quickly, making the FPS drop quite noticeably still.
 
 So I made such that there was only 1 cache and everything else was selecting from that cache.
+
 The side effect however was that it made the switching layout quite a maze...
 
 ![_config.yml]({{ site.baseurl }}/images/Time Dilation Documentation/DelaySwitchFinal.png)
