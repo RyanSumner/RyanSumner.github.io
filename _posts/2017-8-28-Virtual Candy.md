@@ -10,7 +10,7 @@ This was a group assignment I contributed to at university.
 The task was to take a real image and add virtual objects to the image such that they blend into the scene.
 The above image is the final result of the assignment.
  
-What do objects you think sre real and not real?
+What do objects you think are real and not real?
 
 Did we do a good enough job?
 
