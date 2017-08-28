@@ -13,7 +13,7 @@ This also allowed multiple fires to spread on the same mesh and behave properly.
 Some noise was added to the travel speed of the flames to decrease the linearity of the fire spread (the difference with and without the noise is shown in the videos).
 Unity then handled the partical emission to make the flames themselves and Unity's colliders were used to make it possible to spread to nearby meshes.
 
-Unfortunaetly the original code that was written in C# was lost and only these output videos remain.
+Unfortunately the original code (written in C#) was lost and only these output videos remain.
 
 [comment]: <> (Single Flame With Noise)
 <iframe width="560" height="420" src="http://www.youtube.com/embed/pO0YtNegLyc"></iframe>
