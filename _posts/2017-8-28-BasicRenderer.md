@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Basic Renderer
-[comment]: <> (Java -)
+title: A Basic Renderer written in Java
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/BasicRenderer/BigBoxes.png)

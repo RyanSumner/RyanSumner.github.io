@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Virtual Candy
-[comment]: <> (Maya)
+title: Virtual Candy using Maya
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/VirtualCandy/Final Image.png)

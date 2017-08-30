@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Fire Particles
-[comment]: <> (C++, OpenGL -)
+title: Fire Particles using C++ and OpenGL
 ---
 
 ![_config.yml]({{ site.baseurl }}/gifs/FireParticles.gif)
