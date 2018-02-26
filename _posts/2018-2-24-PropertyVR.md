@@ -4,6 +4,9 @@ title: VR Property Data Inspector
 [comment]: <> (Unity3D, UTC Vive, C# -)
 ---
 
+[comment]: <> (VR Property Demo)
+<iframe width="560" height="420" src="http://www.youtube.com/embed/watch?v=dHYoUD4EKs4"></iframe>
+
 This project explores the potiental of displaying property information in a 3D medium.
  
 The property information starts in a JSON format.
@@ -21,5 +24,4 @@ Virtual Reality interactions were added in order to have additional context to t
 The Key elements I worked on were the custom mesh drawing, the 3D Shaders for transparency/opacity switching and the VR controls and interaction.
 
 
-[comment]: <> (VR Property Demo)
-<iframe width="560" height="420" src="https://www.youtube.com/watch?v=dHYoUD4EKs4"></iframe>
+
