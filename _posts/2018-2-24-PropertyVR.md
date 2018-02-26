@@ -5,7 +5,7 @@ title: VR Property Data Inspector
 ---
 
 [comment]: <> (VR Property Demo)
-<iframe width="560" height="420" src="http://www.youtube.com/embed/watch?v=dHYoUD4EKs4"></iframe>
+<iframe width="560" height="420" src="http://www.youtube.com/embed/dHYoUD4EKs4"></iframe>
 
 This project explores the potiental of displaying property information in a 3D medium.
  
