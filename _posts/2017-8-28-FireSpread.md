@@ -4,7 +4,7 @@ title: Fire Spread using Unity3D
 ---
 
 [comment]: <> (Single Flame)
-<iframe width="560" height="420" src="http://www.youtube.com/embed/lg5l6ATXPi0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lg5l6ATXPi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This was a project I was working on during University using Unity3D. The idea was to have fire spread across a surface or object by using the vertex, edge and face data of the mesh.
 
@@ -17,17 +17,17 @@ Unity then handled the partical emission to make the flames themselves and Unity
 Unfortunately the original code (written in C#) was lost and only these output videos remain.
 
 [comment]: <> (Single Flame With Noise)
-<iframe width="560" height="420" src="http://www.youtube.com/embed/pO0YtNegLyc"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pO0YtNegLyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [comment]: <> (Two Flames)
-<iframe width="560" height="420" src="http://www.youtube.com/embed/kJUhSyE1o1s"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kJUhSyE1o1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [comment]: <> (Two Flames with Noise)
-<iframe width="560" height="420" src="http://www.youtube.com/embed/n_E8qFc4D4k"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n_E8qFc4D4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [comment]: <> (Multiple Objects)
-<iframe width="560" height="420" src="http://www.youtube.com/embed/FZSO-QazdR8"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FZSO-QazdR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [comment]: <> (Large Scale with Multiple Flames)
-<iframe width="560" height="420" src="http://www.youtube.com/embed/-X39TfjREgI"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-X39TfjREgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
